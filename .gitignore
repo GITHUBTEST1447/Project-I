@@ -1,0 +1,3 @@
+# Files to ignore
+Root Module/.terraform/
+2 Tier Application/.terraform/
